@@ -1,0 +1,10 @@
+body{
+    width: 680px;
+    background-color: white;
+}
+.container{
+    text-align: center;
+}
+.consultation{
+    align-items: center;
+}
