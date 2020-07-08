@@ -17,4 +17,24 @@
 .button{
   background-color: tomato;
 }
+.section{
+  background-color: #F58261;
+  text-align: center;
+}
+.start{
+  background-color: blue;
+  
+}
+footer{
+  width: 300px;
 
+  background-color: #11364E;
+  align-items: center;
+}
+.input{
+  width: 300px ;
+  background-color: #11364E; 
+}
+.submit{
+  background-color: #A63C1C;
+}
